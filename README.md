@@ -40,9 +40,7 @@ After fitting the model several times using a high learning rate, at the first r
    refer to post on medium: https://medium.com/@gbadhanane/pytorch-linear-regression-model-to-predict-life-tendency-of-people-with-heart-failure-clinical-e79274ede624 
 
 # Work Cited Pages
-Pytorch series courses on youtube: https://www.youtube.com/watch?v=vo_fUOk-IKk&t=1s
-zerotogans.com
-PyTorch documentation - PyTorch master documentation
-Learn about PyTorch's features and capabilities
-pytorch.org
-Dataset: https://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+records
+ Pytorch series courses on youtube: https://www.youtube.com/watch?v=vo_fUOk-IKk&t=1s
+ zerotogans.com
+ pytorch.org
+ Dataset: https://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+records
